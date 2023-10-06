@@ -1,0 +1,18 @@
+/* .line {
+  border-bottom: 1px solid #cb0f0f;
+  line-height: 1.5;
+  padding: 30px;
+} */
+
+ .ordermeal-text{
+  text-align: center;
+}
+.check-meal{
+    text-decoration: none;
+  }
+  .order-btn{
+    text-decoration: none;
+  }
+  link{
+    text-decoration: none;
+  }

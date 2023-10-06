@@ -1,0 +1,26 @@
+.register-form{
+  background-color: #f1bb3d;
+}
+h5{
+  text-align: center;
+}
+ .or-separator span {
+  display: flex;
+  flex-direction: row;
+}
+
+ .or-separator span:before,
+ .or-separator span:after {
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid;
+  margin: auto;
+}
+
+ .or-separator span:before {
+  margin-right: 10px
+}
+
+ .or-separator span:after {
+  margin-left: 10px
+}
